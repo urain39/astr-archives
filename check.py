@@ -11,7 +11,7 @@ def main():
 
 			if unmatched_list:
 				u = unmatched_list[0]
-				raise Exception(f'Unmatched list detected at {str(i)}:{u[0]}')
+				raise Exception(f'Unmatched string detected at {str(i)}:{u[0]}')
 
 
 if __name__ == '__main__':
