@@ -1,5 +1,5 @@
 __COMMENT
-版权声明：汉化由 RustyV 独立完成，转载请注明原作者！
+版权声明：汉化由 RustyV 独立完成，转载/使用请注明原作者！
 
 
 <html><font color=\'#AFFFFFF\'>……。</font></html>
@@ -23,7 +23,7 @@ __COMMENT
 
 
 <html><font color=\'#AFFFFFF\'>取りに戻ったのか？<br>でも、職員室にひとこと言いに来ないとだめだぞ。</font></html>
-<html><font color=\'#AFFFFFF\'>回来取了吗？<br>但是，不来办公室说一声是不行的。</font></html>
+<html><font color=\'#AFFFFFF\'>你回来取了吗？<br>但是，不来办公室说一声是不行的。</font></html>
 
 
 <html><font color=\'#AFFFFFF\'>はい、すみません……っ。<br>つい急いで……。</font></html>

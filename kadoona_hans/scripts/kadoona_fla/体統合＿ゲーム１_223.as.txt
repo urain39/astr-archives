@@ -1,5 +1,5 @@
 __COMMENT
-版权声明：汉化由 RustyV 独立完成，转载请注明原作者！
+版权声明：汉化由 RustyV 独立完成，转载/使用请注明原作者！
 
 
 __COMMENT
@@ -96,7 +96,7 @@ __COMMENT
 
 
 __COMMENT
-译注：从这里开始是新做的文本内容。
+译注：从这里开始是新作的文本内容。
 
 <html><font color=\'#AFFFFFF\'>（瀬南の胸……）</font></html>
 <html><font color=\'#AFFFFFF\'>（瀬南的胸部……）</font></html>
@@ -126,7 +126,7 @@ __COMMENT
 译注：这里比较难，参考https://jp.hjenglish.com/new/p385903/。
 
 <html><font color=\'#AFFFFFF\'>瀬南の胸、膨らみかけだね。</font></html>
-<html><font color=\'#AFFFFFF\'>瀬南的胸部，已经开始膨胀了呢。</font></html>
+<html><font color=\'#AFFFFFF\'>瀬南的胸部，已经开始发育了呢。</font></html>
 
 
 <html><font color=\'#AFFFFFF\'>や……ぁ!?<br>じかに触るのは……だめです……っ。</font></html>
@@ -607,7 +607,7 @@ __COMMENT
 
 
 <html><font color=\'#AFFFFFF\'>（乳首美味しい）</font></html>
-<html><font color=\'#AFFFFFF\'>（乳首很美味）</font></html>
+<html><font color=\'#AFFFFFF\'>（乳头很美味）</font></html>
 
 
 <html><font color=\'#AFFFFFF\'>あぅっ!?<br>お胸吸うのだめ……ですっ。</font></html>
@@ -698,7 +698,7 @@ __COMMENT
 
 
 <html><font color=\'#AFFFFFF\'>髪の毛、いい匂いがしそうだ。</font></html>
-<html><font color=\'#AFFFFFF\'>髪の毛、いい匂いがしそうだ。</font></html>
+<html><font color=\'#AFFFFFF\'>头发，好像有股香味。</font></html>
 
 
 <html><font color=\'#AFFFFFF\'>一応、毎日洗ってます……。<br>あの……、いえ、なんでもないです……。</font></html>
