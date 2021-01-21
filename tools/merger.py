@@ -5,13 +5,11 @@ from .annotations import Dictionary
 from .dictionary import parse_dictionary
 
 
-_RE_STRING = re.compile(r'([^\n]+)\n([^\n]+)?', re.MULTILINE)
+_RE_STRING = re.compile(r'([^\n]+)(?:\n[^\n]+)?', re.MULTILINE)
 
 
 def get_string_list(source: str) -> Generator[str, None, None]:
-    for m in _RE_STRING.findall(source):
-        s, _ = m
-
+    for s in _RE_STRING.findall(source):
         yield s
 
 
