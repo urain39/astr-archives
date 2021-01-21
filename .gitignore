@@ -6,3 +6,11 @@
 
 # MyPy cache
 **/.mypy_cache/
+
+# Others
+*.as
+*.as.*
+result.txt
+*.7z
+*.zip
+dictionaries/
