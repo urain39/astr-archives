@@ -1,20 +1,25 @@
-from typing import Generator
+import re
 
+from typing import Generator
 from .annotations import Dictionary
 from .dictionary import parse_dictionary
 
 
+_RE_STRING = re.compile(r'([^\n]+)\n([^\n]+)?', re.MULTILINE)
+
+
 def get_string_list(source: str) -> Generator[str, None, None]:
-    for s in source.split('\n'):
-        if s:
-            yield s
+    for m in _RE_STRING.findall(source):
+        s, _ = m
+
+        yield s
 
 
 def merge(source: str, dictionary: Dictionary) -> str:
     buffer_ = []
 
-    _, dictionary_origin = parse_dictionary(source)
     string_list = get_string_list(source)
+    _, dictionary_origin = parse_dictionary(source)
 
     for i in string_list:
         buffer_.append(i)
