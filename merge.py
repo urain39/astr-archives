@@ -10,7 +10,7 @@ def main(argv: List[str]) -> None:
     argc = len(argv)
 
     if argc < 3:
-        print('Usage: python reduce.py <dictionary1> <dictionary2, dictionary3, ...>')
+        print('Usage: python merge.py <dictionary1> <dictionary2, dictionary3, ...>')
 
         sys.exit(1)
 
